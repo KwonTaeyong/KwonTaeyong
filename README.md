@@ -52,29 +52,10 @@
 ---
 
 ## 📫 **Contact Me**
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/KwonTaeyong](https://linkedin.com/in/KwonTaeyong)  
-🌎 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+📧 Email: kty97@kakao..com  
 
 ---
 
-## 🎵 **Now Playing**
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=KwonTaeyong&cover_image=true&theme=novatorem)](https://spotify.com)
-
----
-
-## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KwonTaeyong&theme=onedark&column=6" />
-</p>
-
----
-
-## 🎯 **Current Projects**
-- [🔗 My Portfolio Website](https://yourportfolio.com)
-- [🔗 Open Source Contribution](https://github.com/KwonTaeyong)
-
----
 
 ### 😄 **Thank You for Visiting!**  
 <p align="center">
