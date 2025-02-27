@@ -1,7 +1,4 @@
 
-<!-- 방문자 카운터 -->
-![Visitor Count](https://komarev.com/ghpvc/?username=KwonTaeyong&label=Profile%20Views&color=0e75b6&style=flat)
-
 <h1 align="center">👋 Hello! I'm KwonTaeyong</h1>
 
 <p align="center">
@@ -40,12 +37,10 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### 📍 **Database**
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 📍 **Version Control & Collaboration Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
