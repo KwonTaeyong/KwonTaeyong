@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on **Django + React Projects**
 - 🌱 I’m currently learning **Node.js, GraphQL, Docker**
 - 👯 I’m looking to collaborate on **Open-source projects**
-- 📫 How to reach me: **kty97@kakao.com**
 - ⚡ Fun fact: **I love AI & ML 🤖**
 
 ---
