@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi! I'm KwonTaeyong</h1>
 
 <p align="center">
@@ -27,6 +26,7 @@
 
 ### 📍 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-91AAFB?style=flat&logo=next.js&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
@@ -36,7 +36,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
 
 ### 📍 **Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -63,7 +62,7 @@
 ---
 
 ## 📫 **Contact Me**
-📧 Email: kty97@kakao..com  
+📧 Email: kty97@kakao.com  
 
 ---
 
